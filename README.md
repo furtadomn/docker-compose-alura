@@ -25,9 +25,9 @@ docker-compose up
 </br>
 
 No navegador, acesse:
-http://localhost/80
+http://localhost:80
 
-Em um primeiro momento a página estará vazia, apenas com cabeçalho e rodapé. Para exibir os livros, é preciso "alimentar" o banco de dados acessando a página http://localhost:80/seed (na qual haverá uma mensagem dizendo "Livros salvos") e retornar para http://localhost/80.
+Em um primeiro momento a página estará vazia, apenas com cabeçalho e rodapé. Para exibir os livros, é preciso "alimentar" o banco de dados acessando a página http://localhost:80/seed (na qual haverá uma mensagem dizendo "Livros salvos") e retornar para http://localhost:80.
 
 </br>
 

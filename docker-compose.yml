@@ -31,7 +31,7 @@ services:
     networks:
       - production-network
     depends_on:
-      -"mongodb"
+      - "mongodb"
 
   node2:
     build: 
@@ -44,7 +44,7 @@ services:
     networks:
       - production-network
     depends_on:
-      -"mongodb"
+      - "mongodb"
 
   node3:
     build: 
@@ -57,7 +57,7 @@ services:
     networks:
       - production-network
     depends_on:
-      -"mongodb"
+      - "mongodb"
 
 networks:
   production-network:

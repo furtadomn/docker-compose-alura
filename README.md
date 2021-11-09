@@ -31,7 +31,7 @@ Em um primeiro momento a página estará vazia, apenas com cabeçalho e rodapé.
 
 </br>
 
-Para interromper a execusão dos containers e removê-los, execute o comando:
+Para interromper a execução dos containers e removê-los, execute o comando:
 ```
 docker-compose down
 ```
